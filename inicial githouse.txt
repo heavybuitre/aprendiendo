@@ -1,0 +1,15 @@
+gh auth login
+gh auth status
+
+cd ~/aprendiendo/
+git config user.name heavybuitre
+git config user.mail heavybuitre@gmail.com
+
+touch mnelson.py     ***crear un archivo nuevo
+git status
+
+
+
+git add .
+git commit -m "Agregados nuevos estilos al sitio web"
+git push origin heavybuitre
