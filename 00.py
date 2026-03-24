@@ -12,7 +12,7 @@ sim1 = 825
 sim2 = 625
 print(sim1>=sim2)
 
-
+print(sim1)
 
 
 
